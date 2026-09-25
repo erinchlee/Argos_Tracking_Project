@@ -1,2 +1,5 @@
 # Argos_Tracking_Project
-ENV859_Fall2026
+ENV 859 Argos Tracking Exercise
+
+Fall 2026
+cl778@duke.edu
